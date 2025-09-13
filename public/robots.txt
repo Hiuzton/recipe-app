@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kooker-recipe.netlify.app/sitemap.xml
