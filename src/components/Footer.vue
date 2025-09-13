@@ -16,7 +16,7 @@
         </a>
         <RouterLink to="/" class="hover:underline">Home</RouterLink>
         <RouterLink to="/about" class="hover:underline">About</RouterLink>
-        <RouterLink to="/recipies" class="hover:underline">Recipies</RouterLink>
+        <RouterLink to="/recipes" class="hover:underline">Recipes</RouterLink>
         <RouterLink to="/cart" class="hover:underline">Cart</RouterLink>
       </nav>
     </div>
